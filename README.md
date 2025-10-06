@@ -16,3 +16,7 @@ Key features include:
 
 
 This project highlights skills in data engineering, cleaning, analysis, and dynamic visualization using modern data science tools.
+
+
+<img width="1105" height="604" alt="image" src="https://github.com/user-attachments/assets/1c95b39e-8186-4ad6-b955-4c142005dfa8" />
+
